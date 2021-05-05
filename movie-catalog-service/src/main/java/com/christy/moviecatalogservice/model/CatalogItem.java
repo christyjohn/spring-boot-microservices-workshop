@@ -1,4 +1,4 @@
-package com.christy.moviecatalogservice.models;
+package com.christy.moviecatalogservice.model;
 
 public class CatalogItem {
 

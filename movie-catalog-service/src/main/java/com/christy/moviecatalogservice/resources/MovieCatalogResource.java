@@ -1,6 +1,6 @@
 package com.christy.moviecatalogservice.resources;
 
-import com.christy.moviecatalogservice.models.CatalogItem;
+import com.christy.moviecatalogservice.model.CatalogItem;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
